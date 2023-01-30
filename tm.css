@@ -1,0 +1,26 @@
+a#q{
+    text-decoration: none;
+    color:rgb(234, 15, 88);
+    font-size: 33px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div{
+    background-color: rgb(139, 139, 195);
+    width: 30px;
+    
+}
+/* *{
+    background-color: rgb(101, 168, 158);
+} */
+a{
+    text-decoration: none;
+}
+h2~a{
+    background-color: rgb(199, 194, 202);
+}
+
+
+
+
+
+
